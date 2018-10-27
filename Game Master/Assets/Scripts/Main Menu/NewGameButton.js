@@ -2,15 +2,15 @@
 
 function Start () 
 {
-	
+    
 }
 
 function Update () 
 {
-	
+     
 }
 
-function onclick()
+function OnMouseDown()
 {
-
+    Application.LoadLevel("GuildLeadManage");
 }
